@@ -1,0 +1,3 @@
+[submodule "msys2-w32api"]
+	path = msys2-w32api
+	url = https://github.com/dirkarnez/msys2-w32api.git

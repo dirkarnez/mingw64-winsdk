@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/msys2-w32api/msys2-w32api-headers-10.0.0.r16.g49a56d453-1-x86_64.pkg.tar/msys2-w32api-headers-10.0.0.r16.g49a56d453-1-x86_64.pkg/usr/include/w32api"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "${env:USERPROFILE}/Downloads/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
